@@ -8,7 +8,7 @@ Setup Instructions
 
 Clone the repository to your local machine:
 
-git clone< https://github.com/niyogitangazayvette/niyogitangazayvette_interactive_photo_gallery
+git clone< 
 
 Navigate to the project directory:
 cd interactive-photo-gallery
